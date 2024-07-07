@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ai-detect-closed-eyes-while-driving.git
+   git clone https://github.com/ziishanahmad/ai-detect-closed-eyes-while-driving.git
    cd ai-detect-closed-eyes-while-driving
    ```
 
