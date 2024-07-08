@@ -154,4 +154,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-```
