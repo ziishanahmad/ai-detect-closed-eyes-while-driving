@@ -1,4 +1,3 @@
-```markdown
 # AI Detect Closed Eyes While Driving
 
 A deep learning project to detect closed eyes while driving using a Convolutional Neural Network (CNN).
